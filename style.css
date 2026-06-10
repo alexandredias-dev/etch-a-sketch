@@ -1,0 +1,8 @@
+/* style.css */
+#container {
+  width: 960px;
+  height: 960px;
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid #000000;
+}
